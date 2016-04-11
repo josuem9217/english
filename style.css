@@ -4,7 +4,8 @@
  }
 
  h1{
-     color: #eee9e9;
+     color: white;
+
  }
  
  .full-w {
@@ -21,7 +22,11 @@
  }
  
  .transparent {
-     background: rgba(105, 105, 105,.7);
+     background: rgba(105, 105, 105,.9);
+ }
+ .transparentH{
+       background: rgba(0, 0, 0,.3);
+
  }
  
  .section {
@@ -32,14 +37,17 @@
 }
 
 .navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a  {
- color: green;
+ color: white;
 }
 
 
  /**/
  
  #home {
-     background-color: #2f4f4f;
+     background-image: url(http://freeaudiobookguide.com/wp-content/uploads/2015/06/jd-salinger-quote.jpg);
+    background-repeat: no-repeat;
+        background-size: cover;
+
      display: table;
  }
  
