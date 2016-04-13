@@ -1,32 +1,31 @@
  html,
  body {
-     height: 100%;
+  height: 100%;
  }
-
- h1{
-     color: white;
-
+ 
+ h1 {
+  color: white;
  }
  
  .full-w {
-     width: 100%;
+  width: 100%;
  }
  
  .full-h {
-     height: 100%;
+  height: 100%;
  }
  
  .vert-center {
-     display: table-cell;
-     vertical-align: middle;
+  display: table-cell;
+  vertical-align: middle;
  }
  
  .transparent {
-     background: rgba(105, 105, 105,.9);
+  background: rgba(105, 105, 105, .9);
  }
- .transparentH{
-       background: rgba(0, 0, 0,.3);
-
+ 
+ .transparentH {
+  background: rgba(0, 0, 0, .3);
  }
  
  .section {
@@ -44,59 +43,70 @@
  /**/
  
  #home {
-     background-image: url(http://freeaudiobookguide.com/wp-content/uploads/2015/06/jd-salinger-quote.jpg);
-    background-repeat: no-repeat;
-        background-size: cover;
-
-     display: table;
+  background-image: url(http://freeaudiobookguide.com/wp-content/uploads/2015/06/jd-salinger-quote.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: table;
  }
  
  #fs1 {
-     background-color: #bebebe;
-     display: table;
+  background-color: #bebebe;
+  display: table;
  }
  
  #fs2 {
-     background-color: #d3d3d3;
-     display: table;
+  background-color: #d3d3d3;
+  display: table;
  }
  
  #fs3 {
-     background-color: #bebebe;
-     display: table;
+  background-color: #bebebe;
+  display: table;
  }
  
  #fs4 {
-     background-color: #d3d3d3;
-     display: table;
- }
- #section {
-     padding: 60px 0;
-     background-color: #bebebe;
+  background-color: #d3d3d3;
+  display: table;
  }
  
+ #section {
+  padding: 60px 0;
+  background-color: #bebebe;
+ }
  /**/
  
  @media screen and (min-width: 0px) {
-     h1 {
-         font-size: 50px;
-     }
+  h1 {
+   font-size: 50px;
+  }
  }
  
  @media screen and (min-width: 768px) {
-     h1 {
-         font-size: 100px;
-     }
+  h1 {
+   font-size: 100px;
+  }
  }
  
  @media screen and (min-width: 992px) {
-     h1 {
-         font-size: 100px;
-     }
+  h1 {
+   font-size: 100px;
+  }
  }
  
  @media screen and (min-width: 1200px) {
-     h1 {
-         font-size: 120px;
-     }
+  h1 {
+   font-size: 120px;
+  }
+ }
+ 
+ .headd {
+  margin-top: 5%;
+ }
+ 
+ ul {
+  font-size: 32px;
+ }
+ 
+ h2 {
+  font-size: 40px;
  }
