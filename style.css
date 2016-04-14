@@ -50,25 +50,28 @@
  }
  
  #fs1 {
-  background-color: #bebebe;
+  background-color: #d3d3d3;
   display: table;
  }
  
  #fs2 {
-  background-color: #d3d3d3;
-  display: table;
- }
- 
- #fs3 {
   background-color: #bebebe;
   display: table;
  }
  
- #fs4 {
+ #fs3 {
   background-color: #d3d3d3;
   display: table;
  }
  
+ #fs4 {
+  background-color: #bebebe;
+  display: table;
+ }
+ #sectionD {
+  padding: 60px 0;
+  background-color: #d3d3d3;
+ }
  #section {
   padding: 60px 0;
   background-color: #bebebe;
@@ -115,6 +118,7 @@
  }
 
 a:link    {color:green; background-color:transparent; text-decoration:none}
+a:visited {color:pink; background-color:transparent; text-decoration:none}
 a:hover   {color:pink; background-color:transparent; text-decoration:underline}
 a:active  {color:yellow; background-color:transparent; text-decoration:underline}
 
