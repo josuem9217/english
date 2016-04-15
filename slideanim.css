@@ -8,7 +8,7 @@
     -webkit-animation-name: slide;
     /* The duration of the animation */
     animation-duration: 3s;
-    -webkit-animation-duration: 3s;
+    -webkit-animation-duration: 5s;
     /* Make the element visible */
     visibility: visible;
 }
