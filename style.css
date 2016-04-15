@@ -7,10 +7,13 @@
   color: white;
  }
  
- ul {
-  padding-left: 0%;
- }
+ /*ul {*/
+ /* padding-left: 0%;*/
+ /*}*/
  
+ footer{
+  font-size: 30px;
+ }
  .full-w {
   width: 100%;
  }
@@ -25,7 +28,7 @@
  }
  
  .transparent {
-  background: rgba(105, 105, 105, .9);
+  background: rgba(224,76,50,.8);
  }
  
  .transparentH {
@@ -33,7 +36,7 @@
  }
  
  .section {
-  padding: 60px;
+  padding: 70px;
  }
  
  .pillz {
@@ -51,7 +54,6 @@
  .navbar-default .nav>li>a:hover {
   color: #E04C32;
  }
- 
  /**/
  
  #home {
@@ -82,12 +84,10 @@
  }
  
  #sectionD {
-  padding: 60px 0;
   background-color: #FAEDDC;
  }
  
  #section {
-  padding: 60px 0;
   background-color: #FEF3E1;
  }
  /**/
@@ -132,14 +132,9 @@
   font-size: 35px;
  }
  
- a:link {
-  color: #E04C32;
-  background-color: transparent;
-  text-decoration: none
- }
- 
+ a:link,
  a:visited {
-  color: pink;
+  color: #E04C32;
   background-color: transparent;
   text-decoration: none
  }
@@ -155,4 +150,3 @@
   background-color: transparent;
   text-decoration: underline
  }
- 
