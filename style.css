@@ -2,18 +2,18 @@
  body {
   height: 100%;
  }
-   
+ 
  h1 {
   color: white;
  }
- 
  /*ul {*/
  /* padding-left: 0%;*/
  /*}*/
  
- footer{
+ footer {
   font-size: 30px;
  }
+ 
  .full-w {
   width: 100%;
  }
@@ -28,7 +28,7 @@
  }
  
  .transparent {
-  background: rgba(224,76,50,.8);
+  background: rgba(224, 76, 50, .8);
  }
  
  .transparentH {
@@ -150,4 +150,3 @@
   background-color: transparent;
   text-decoration: underline
  }
- 
